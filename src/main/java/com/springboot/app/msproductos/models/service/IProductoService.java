@@ -2,7 +2,7 @@ package com.springboot.app.msproductos.models.service;
 
 import java.util.List;
 
-import com.springboot.app.msproductos.models.entity.Producto;
+import com.springboot.app.mscommons.models.entity.Producto;
 
 public interface IProductoService {
 	
